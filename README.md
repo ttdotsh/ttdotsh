@@ -24,8 +24,7 @@ Full Stack Software Engineer
   <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>
 </p>
                     
-### Socials
-                               
+### Socials                
 <p align="left">
   <a href="https://www.github.com/timTonelli" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" /></a>
   <a href="http://www.instagram.com/tt.kb_" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a>
@@ -33,5 +32,12 @@ Full Stack Software Engineer
   <a href="https://www.twitter.com/timTonelli_" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a>
 </p>
 
+<a href="https://www.github.com/timTonelli" target="_blank" rel="noreferrer">
+  <img src="https://img.shields.io/github/followers/timTonelli?logo=github&style=for-the-badge&color=84cc16&labelColor=22272e" />
+</a>
+<a href="https://www.twitter.com/timTonelli_" target="_blank" rel="noreferrer">
+   <img src="https://img.shields.io/twitter/follow/timTonelli_?logo=twitter&style=for-the-badge&color=84cc16&labelColor=22272e"/>
+</a>
+
 ### <b>My GitHub Stats</b>
-<a href="http://www.github.com/timTonelli"><img src="https://activity-graph.herokuapp.com/graph?username=timTonelli&bg_color=22272e&color=ffffff&line=84cc16&point=ffffff&area_color=22272e&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
+<a href="http://www.github.com/timTonelli"><img src="https://github-readme-stats.vercel.app/api?username=timTonelli&show_icons=true&hide=stars,&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=84cc16&bg_color=22272e&hide_border=true&show_icons=true" alt="timTonelli's GitHub stats" /></a>
