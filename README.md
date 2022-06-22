@@ -7,7 +7,7 @@ Full Stack Software Engineer
 *   🌍  I'm based in the Greater Boston Area
 *   ✉️  You can contact me at [timtonelli@me.com](mailto:timtonelli@me.com)
 *   🚀  I'm currently working on [Grumbl](http://grumbl.herokuapp.com)
-*   🧠  I'm currently learning TailwindCSS, Socket.io
+*   🧠  I'm currently learning Next.js and TypeScript
 *   🤝  I'm open to collaborating on anything! Shoot me an email!
 
 ### Skills
