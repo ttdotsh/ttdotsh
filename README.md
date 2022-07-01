@@ -31,7 +31,9 @@
   <a href="http://www.instagram.com/tt.kb_" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a>
   <a href="https://www.linkedin.com/in/tim-tonelli/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a>
   <a href="https://www.twitter.com/timTonelli_" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a>
+  <a href="https://discord.com/users/tt.kb_#5331" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a>
 </p>
+
 
 <a href="https://www.github.com/timTonelli" target="_blank" rel="noreferrer">
   <img src="https://img.shields.io/github/followers/timTonelli?logo=github&style=for-the-badge&color=84cc16&labelColor=22272e" />
