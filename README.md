@@ -2,9 +2,9 @@
 
 ## Full Stack Software Engineer
 *   🌍  I'm based in the Greater Boston Area
-*   ✉️  You can contact me at [timtonelli@me.com](mailto:timtonelli@me.com)
-*   🚀  I'm currently working on an apprenticeship and finding my first full time permanent position!
-*   🧠  I'm currently learning Next.js and TypeScript
+*   ✉️  You can contact me [via email](mailto:timtonelli@me.com)
+*   🚀  I'm currently working at VIA!
+*   🧠  I'm currently learning Angular, TypeScript and Python
 *   🤝  I'm open to collaborating on anything! Shoot me an email!
 
 ## Skills
