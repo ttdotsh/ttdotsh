@@ -6,7 +6,7 @@
 
 🚀 I'm currently working at [VIA](https://www.solvewithvia.com) as a Full Stack Software Engineer
 
-🧠 I'm currently learning Angular, TypeScript and Python
+🧠 I'm currently learning Go
 
 <!-- 🔗 You can find my links [here](https://bento.me/timton) -->
 
